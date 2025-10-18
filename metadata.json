@@ -1,0 +1,5 @@
+{
+  "name": "Spam vs. Ham SMS Classifier",
+  "description": "A React application that uses the Gemini API to classify SMS messages as either 'Spam' (unwanted ads) or 'Ham' (legitimate messages). It features a real-time prediction UI with probability scores and a history log.",
+  "requestFramePermissions": []
+}
